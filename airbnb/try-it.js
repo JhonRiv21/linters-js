@@ -1,4 +1,5 @@
 /* Ejecuta:
+ * cd airbnb
  * npm install
  * npx lint
  * Y verás cómo ejecuta el formateo siguiendo los estándares de Airbnb

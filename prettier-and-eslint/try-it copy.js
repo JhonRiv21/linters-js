@@ -1,4 +1,5 @@
 /* Ejecuta:
+ * cd prettier-and-eslint
  * npm install
  * npm run lint         // para ver errores de código con prettier
  * npm run format       // para realizar formateo

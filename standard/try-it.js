@@ -1,4 +1,5 @@
-/* Ejecuta:
+/* Ejecuta en consola:
+ * cd standard
  * npm install
  * npx standard --fix
  * Y verás cómo ejecuta el formateo siguiendo los estándares de Standard

@@ -1,4 +1,5 @@
 /* Ejecuta:
+ * cd eslint-stylistic
  * npm install
  * npm run lint
  * Y verás cómo ejecuta el formateo siguiendo los estándares de ESlint Stylistic
