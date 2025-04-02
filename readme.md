@@ -17,9 +17,9 @@ La idea es ver cómo cada linter maneja el formateo y los errores en el código,
 
 Cada carpeta correspondiente a un linter sigue la misma estructura básica:
 
-[linters]/
+[linters]/```
  ├── [linter-name]/
- │   ├── app.js
+ │   ├── app.js```
  │   ├── package.json
  │   ├── readme.md
  │   ├── try-it.js
