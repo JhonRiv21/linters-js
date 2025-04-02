@@ -18,12 +18,12 @@ La idea es ver cómo cada linter maneja el formateo y los errores en el código,
 Cada carpeta correspondiente a un linter sigue la misma estructura básica:
 
 [linters]/\
-   ├── [linter-name]/\
-   │   ├── app.js\
-   │   ├── package.json\
-   │   ├── readme.md\
-   │   ├── try-it.js\
-   │   ├── readme\
+      ├── [linter-name]/\
+      │   ├── app.js\
+      │   ├── package.json\
+      │   ├── readme.md\
+      │   ├── try-it.js\
+      │   ├── readme\
 
 
 - **app.js**: Contiene un archivo de código ya formateado con el correspondiente linter. Este archivo también incluye algunos errores intencionales que permiten ver si el linter sigue detectando los problemas.
