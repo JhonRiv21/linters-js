@@ -1,0 +1,7 @@
+{
+  "name": "linters-js",
+  "version": "1.0.0",
+  "description": "Proyecto para poner a prueba diferentes linters en JavaScript.",
+  "author": "Jhon Rivero",
+  "license": "MIT"
+}
